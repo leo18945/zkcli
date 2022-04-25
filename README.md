@@ -17,6 +17,10 @@ You can find `RPM` and `deb` packages, as well as pre-compiled, dependency free 
 In fact, the only file installed by the pre-built `RPM` and `deb` packages is said executable binary file. 
 
 Otherwise the source code is freely available; you will need `git` installed as well as `go`, and you're on your own.
+
+```
+go install github.com/leo18945/zkcli@latest
+```
   
 ### Usage:
 
