@@ -13,16 +13,14 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 */
-
+// https://github.com/leo18945/zkcli
 package main
 
 import (
 	"github.com/go-zkcli/zkcli/output"
-	"github.com/go-zkcli/zkcli/zk"
-
+	"github.com/leo18945/zkcli/zk"
 	"github.com/outbrain/golib/log"
-
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"io/ioutil"
 	"os"
 	"strings"
