@@ -1,0 +1,8 @@
+github.com/go-zkcli/zkcli v1.0.6 h1:Fmz6In/Qrwv7cxzD7pQUt+7O4acP10sOKwruvw/tInc=
+github.com/go-zkcli/zkcli v1.0.6/go.mod h1:NgSWJ0gnaexDeIJF9668li8sKHwevA/AJGNil+sVTlU=
+github.com/outbrain/golib v0.0.0-20200503083229-2531e5dbcc71 h1:5FSwz/q8DhpkUsq8cqRN7gRVWWnfXfjeOeB8Bhj5ARc=
+github.com/outbrain/golib v0.0.0-20200503083229-2531e5dbcc71/go.mod h1:JDhu//MMvcPVPH889Xr7DyamEbTLumgDBALGUyXrz1g=
+github.com/samuel/go-zookeeper v0.0.0-20201211165307-7117e9ea2414 h1:AJNDS0kP60X8wwWFvbLPwDuojxubj9pbfK7pjHw0vKg=
+github.com/samuel/go-zookeeper v0.0.0-20201211165307-7117e9ea2414/go.mod h1:gi+0XIa01GRL2eRQVjQkKGqKF3SF9vZR/HnPullcV2E=
+github.com/urfave/cli v1.10.0 h1:g7H3s36cqk/m9roDY1cXBCLi17/SHPpvf++6O/Vva8Y=
+github.com/urfave/cli v1.10.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
