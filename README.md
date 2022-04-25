@@ -128,6 +128,18 @@ $ zkcli ls -r "/demo_only"
 child
 child/key1
 child/key2
+
+# list kafka topics
+zkcli ls /brokers/topics
+
+# remove kafka topic
+zkcli rmr /brokers/topics/${topic_name}
+
+# list kafka marked for deletion topics
+zkcli ls /admin/delete_topics
+
+# remove marked for deletion topic
+zkcli rmr /admin/delete_topics/${topic_name}
 ```
     
 
